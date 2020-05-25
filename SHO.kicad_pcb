@@ -87,7 +87,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory "/Users/ericwood/PCBs/Testing/gerber/"))
+      (outputdirectory "/Users/ericwood/PCBs/SHO/gerber/"))
   )
 
   (net 0 "")
@@ -1103,7 +1103,7 @@
   (segment (start 184.133999 118.855999) (end 196.358001 118.855999) (width 0.25) (layer F.Cu) (net 11))
   (segment (start 183.134 117.856) (end 184.133999 118.855999) (width 0.25) (layer F.Cu) (net 11))
 
-  (zone (net 6) (net_name +9V) (layer F.Cu) (tstamp 5ECB3D73) (hatch edge 0.508)
+  (zone (net 6) (net_name +9V) (layer F.Cu) (tstamp 5ECBDB5D) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
@@ -1325,7 +1325,7 @@
       )
     )
   )
-  (zone (net 5) (net_name GND) (layer B.Cu) (tstamp 5ECB3D70) (hatch edge 0.508)
+  (zone (net 5) (net_name GND) (layer B.Cu) (tstamp 5ECBDB5A) (hatch edge 0.508)
     (connect_pads (clearance 0.508))
     (min_thickness 0.254)
     (fill yes (arc_segments 32) (thermal_gap 0.508) (thermal_bridge_width 0.508))
